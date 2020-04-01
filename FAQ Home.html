@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FAQ Log Home</title>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+
+<header class="main-header" role="banner">
+  <img src="kubrickbanner.jpg" alt="Banner Image"/>
+</header>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<body>
+
+
+<div class="container">
+            <h1>Welcome to Mississippi's FAQ Log!</h1>
+</div>
+<br>
+<br>
+
+<div>
+    <h2>Please select the category your FAQ falls under:</h2>
+</div>
+
+<div class="row">
+    <div class="column">
+        <form action="Retrieve General Question.html" method="GET">
+            <fieldset>
+                <input type="image" src="./general.png" width="250" height="300" alt="General FAQs"
+            </fieldset>
+        </form>
+    </div>
+
+    <div class="column">
+        <form action="Retrieve Technical Question.html" method="GET">
+            <fieldset>
+                <input type="image" src="./training.png" width="250" height="300" alt="Technical FAQs"
+            </fieldset>
+        </form>
+    </div>
+</div>
+<br>
+<br>
+
+<div>
+    <a class="menulink" href="./Submit Question.html"><button>Submit a new Question</button></a>
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="container-fluid text-center bottom-container">
+    <footer>
+        <p> Copyright &copy;2020. Team Mississippi. All rights reserved.</p>
+    </footer>
+</div>
+</body>
+</html>
+

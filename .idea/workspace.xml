@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b938dfba-b9b2-4b16-8c77-4ea708fda0ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Retrieve Technical Question.html" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieve Technical Question.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,9 +126,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585667057137">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="720" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585749296427">
+      <screen x="0" y="0" width="1916" height="936" />
     </state>
+    <state x="720" y="296" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1916.936@0.0.1916.936" timestamp="1585749296427" />
     <state x="722" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585667057137" />
     <state width="1899" height="247" key="GridCell.Tab.0.bottom" timestamp="1585746097826">
       <screen x="0" y="0" width="1920" height="1040" />
